@@ -1,0 +1,26 @@
+.mainSection{
+    background-color: rgb(242, 243, 243);
+    width: 50%;
+    margin: auto;
+    margin-top: 10%;
+    padding: 10px;
+    margin-bottom: 10%;
+  }
+
+.taskDiv{
+display: inline-block;
+vertical-align: sub;
+}
+
+.buttonToRight{
+float: right;
+}
+
+
+.done{
+color: rgb(158, 233, 189);
+}
+
+.rejected{
+    color :rgb(243, 178, 178);
+}
